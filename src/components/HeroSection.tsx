@@ -26,10 +26,10 @@ const HeroSection = () => {
           <div className="text-center lg:text-left space-y-6">
             <div className="flex items-center justify-center lg:justify-start space-x-2 mb-4">
               <Crown className="w-5 h-5 text-yellow-400" />
-              <span className="text-sm font-medium tracking-wide text-yellow-400">ESTEJA PREPARADO PARA CANONIZAÇÃO DE CARLO ACUTIS 07 DE SETEMBRO</span>
+              <span className="text-sm font-medium tracking-wide text-yellow-400 break-words">ESTEJA PREPARADO PARA CANONIZAÇÃO DE CARLO ACUTIS 07 DE SETEMBRO</span>
             </div>
             
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-foreground leading-tight">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-foreground leading-normal">
               PROTEJA SUA FAMILIA
               <span className="text-primary block">NA ERA DIGITAL</span>
               <span className="block text-3xl lg:text-4xl mt-2">COM A SABEDORIA DE SANTO CARLO ACUTIS</span>
