@@ -23,7 +23,7 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 py-20 relative z-10">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Content */}
-          <div className="text-center lg:text-left space-y-6">
+          <div className="text-center lg:text-left space-y-6 w-full max-w-full min-w-0">
             <div className="flex items-center justify-center lg:justify-start space-x-2 mb-4">
               <Crown className="w-5 h-5 text-yellow-400" />
               <span className="text-sm font-medium tracking-wide text-yellow-400 break-words">ESTEJA PREPARADO PARA CANONIZAÇÃO DE CARLO ACUTIS 07 DE SETEMBRO</span>
