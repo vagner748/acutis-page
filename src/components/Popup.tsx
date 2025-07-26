@@ -12,8 +12,8 @@ const Popup: React.FC<PopupProps> = ({ isOpen, onClose }) => {
 
   return (
     <div className="fixed inset-0 flex items-center justify-center z-[999]" onClick={onClose}>
-      <div className="max-w-md">
-        <img src="/gifs/popup-video.gif" alt="Clique para assistir" className="w-[90%] h-auto cursor-pointer rounded-lg" onClick={onClose} />
+      <div className="w-full max-w-sm p-4">
+        <img src="/gifs/popup-video.gif" alt="Clique para assistir" className="w-full h-auto cursor-pointer rounded-lg mx-auto" onClick={onClose} />
       </div>
     </div>
   );

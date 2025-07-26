@@ -28,7 +28,7 @@ const Index = () => {
   };
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen container mx-auto px-4">
       <Popup isOpen={isPopupOpen} onClose={handlePopupClose} />
       <Header />
       <main>
