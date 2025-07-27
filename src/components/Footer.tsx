@@ -114,7 +114,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="border-t border-border mt-12 pt-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-muted-foreground text-sm">
-            © 2024 Projeto Carlos Acutis. Todos os direitos reservados.
+            © 2025 Projeto Carlos Acutis. Todos os direitos reservados.
           </p>
           <div className="flex space-x-6 text-sm">
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors">

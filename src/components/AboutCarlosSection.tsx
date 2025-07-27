@@ -5,7 +5,7 @@ const AboutCarlosSection = () => {
   return (
     <section id="sobre" className="py-20 bg-muted/30">
       <div className="container mx-auto px-4">
-        <div className="grid lg:grid-cols-2 gap-12 items-center">
+        <div className="grid lg:grid-cols-2 gap-12">
           {/* Content */}
           <div className="space-y-6">
             <div>
@@ -111,7 +111,7 @@ const AboutCarlosSection = () => {
 
             {/* Quote card */}
             <Card className="p-6 bg-gradient-warm">
-              <div className="text-center">
+              <div className="text-left">
                 <h3 className="font-serif text-xl font-bold text-warm-foreground mb-3">
                   "Todos nascem como originais, mas muitos morrem como fotocópias"
                 </h3>
