@@ -47,7 +47,7 @@ const FinalCtaSection = () => {
             </div>
           </div>
           
-          <div className="space-y-6">
+          <div className="space-y-6 flex flex-col items-center">
             <Button 
               onClick={handleCTAClick}
               variant="cta" size="lg" className="text-xl px-12 py-6"

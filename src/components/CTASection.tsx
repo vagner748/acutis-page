@@ -46,7 +46,7 @@ const CTASection = () => {
           </div>
 
           {/* Main CTA */}
-          <div className="space-y-6">
+          <div className="space-y-6 flex flex-col items-center">
             <Button 
               variant="warm" 
               size="lg" 
