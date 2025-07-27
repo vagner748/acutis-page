@@ -50,7 +50,7 @@ const CTASection = () => {
             <Button 
               variant="warm" 
               size="lg" 
-              className="text-lg px-12 py-4 shadow-warm text-warm-foreground hover:scale-105"
+              className="w-full max-w-sm text-lg px-12 py-4 shadow-warm text-warm-foreground hover:scale-105"
             >
               <Download className="w-5 h-5 mr-2" />
               Baixar eBook Gratuito Agora

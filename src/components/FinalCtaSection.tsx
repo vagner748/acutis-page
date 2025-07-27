@@ -50,7 +50,7 @@ const FinalCtaSection = () => {
           <div className="space-y-6 flex flex-col items-center">
             <Button 
               onClick={handleCTAClick}
-              variant="cta" size="lg" className="text-xl px-12 py-6"
+              variant="cta" size="lg" className="w-full max-w-sm text-xl px-12 py-6"
             >
               <div className="flex items-center justify-center space-x-3">
                 <Crown className="w-6 h-6" />
