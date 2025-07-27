@@ -45,7 +45,7 @@ const HeroSection = () => {
             </div>
             <div className="inline-flex items-center justify-start lg:justify-start space-x-1 text-muted-foreground">
               <Globe className="w-4 h-4 text-blue-300" style={{ verticalAlign: 'middle' }} />
-              <span style={{ verticalAlign: 'middle' }}>Disponível em toda Europa e agora no Brasil</span>
+              <span style={{ verticalAlign: 'middle' }}>Disponível em toda Europa e no Brasil</span>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4">
