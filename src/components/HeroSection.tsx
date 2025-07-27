@@ -43,7 +43,7 @@ const HeroSection = () => {
               <Star className="w-4 h-4 text-yellow-400" />
               <span>Mais de 10.000 famílias protegidas</span>
             </div>
-            <div className="inline-flex items-center justify-start lg:justify-start space-x-1 text-muted-foreground">
+            <div className="inline-flex items-center justify-start lg:justify-start space-x-2 text-muted-foreground">
               <Globe className="w-4 h-4 text-blue-300" style={{ verticalAlign: 'middle' }} />
               <span style={{ verticalAlign: 'middle' }}>Disponível em toda Europa e no Brasil</span>
             </div>
